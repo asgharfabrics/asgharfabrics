@@ -34,7 +34,7 @@ https://www.facebook.com/profile.php?id=61586866137160
       <h1 class="text-6xl md:text-7xl font-extrabold mt-4">Asghar Fabrics</h1>
 
       <p class="mt-6 text-lg text-gray-300 max-w-2xl mx-auto leading-8">
-        Premium Pakistani Clothing Collection With Cash On Delivery All Over Pakistan.
+        🔥 Most Demanding Eid Collection 2026 ✨ Premium Embroidered Lawn Suits 🚚 Cash On Delivery All Pakistan.
       </p>
 
       <div class="flex flex-wrap justify-center gap-4 mt-10">
@@ -58,13 +58,13 @@ https://www.facebook.com/profile.php?id=61586866137160
     <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
 
       <div class="bg-white rounded-[35px] overflow-hidden shadow-2xl hover:-translate-y-2 transition duration-300">
-        <img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop" class="h-[420px] w-full object-cover">
+        <img src=<img src="YAHAN PHOTO LINK">=crop" class="h-[420px] w-full object-cover">
 
         <div class="p-7">
-          <h3 class="text-3xl font-bold">Luxury Lawn Collection</h3>
-          <p class="mt-3 text-2xl text-gray-700 font-semibold">Rs. 2,999</p>
+          <h3 class="text-3xl font-bold">Sobia Nazir Eid Collection 2026</h3>
+          <p class="mt-3 text-2xl text-gray-700 font-semibold">Rs. 3,999</p>
 
-          <button onclick="orderNow('Luxury Lawn Collection')" class="w-full mt-7 bg-black text-white py-4 rounded-2xl text-lg font-semibold hover:bg-gray-800 transition">
+          <button onclick="orderNow('Sobia Nazir Eid Collection 2026')" class="w-full mt-7 bg-black text-white py-4 rounded-2xl text-lg font-semibold hover:bg-gray-800 transition">
             Order Now
           </button>
         </div>
@@ -74,10 +74,13 @@ https://www.facebook.com/profile.php?id=61586866137160
         <img src="https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=1200&auto=format&fit=crop" class="h-[420px] w-full object-cover">
 
         <div class="p-7">
-          <h3 class="text-3xl font-bold">Premium Black Dress</h3>
-          <p class="mt-3 text-2xl text-gray-700 font-semibold">Rs. 3,499</p>
+          <h3 class="text-3xl font-bold">Premium Dress</h3>
+          <p class="mt-3 text-2xl text-gray-700 font-semibold">Rs. 3,499
+          <p class="mt-3 text-pink-600 font-semibold">
+🔥 Most Demanding Edition
+</p></p>
 
-          <button onclick="orderNow('Premium Black Dress')" class="w-full mt-7 bg-black text-white py-4 rounded-2xl text-lg font-semibold hover:bg-gray-800 transition">
+          <button onclick="orderNow('Premium Dress')" class="w-full mt-7 bg-black text-white py-4 rounded-2xl text-lg font-semibold hover:bg-gray-800 transition">
             Order Now
           </button>
         </div>
